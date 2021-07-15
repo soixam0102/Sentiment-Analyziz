@@ -14,6 +14,3 @@
         mv wordsegmenter.rdr vncorenlp/models/wordsegmenter/
 
 2. Word to vector
-### Content
-- Word Segmentation
-- Word to vector
