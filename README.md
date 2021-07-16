@@ -22,3 +22,6 @@
     
     
 ![image](https://user-images.githubusercontent.com/50827517/126015338-f5449560-8a5b-4f7c-af91-e40e4536b9fd.png)
+
+
+-  Word embedding with Vietnamese 
