@@ -14,3 +14,9 @@
         mv wordsegmenter.rdr vncorenlp/models/wordsegmenter/
 
 2. Word to vector
+
+- Word embedding with  IMDB data
+
+    Base on embedding layer in the model, we build a vector for each word. Those vector have 64 dimentions.
+    By using projector.tensorflow we have a visualization of word embedding.(upload meta.tsv and vect.tsv to that framework)
+![img.png](img.png)
