@@ -18,7 +18,7 @@
 - Word embedding with  IMDB data
 
     Base on embedding layer in the model, we build a vector for each word. Those vector have 64 dimentions.
-    By using projector.tensorflow we have a visualization of word embedding.(upload meta.tsv and vect.tsv to that framework)
+    By using  [projector.tensorflow](https://projector.tensorflow.org/) we have a visualization of word embedding.(upload meta.tsv and vect.tsv to that framework)
     
     
 ![image](https://user-images.githubusercontent.com/50827517/126015338-f5449560-8a5b-4f7c-af91-e40e4536b9fd.png)
