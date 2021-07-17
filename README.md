@@ -1,4 +1,4 @@
-# Sentiment-Analyze
+# Sentiment-Analyziz
 
 ### Content
 1. Word Segmentation
